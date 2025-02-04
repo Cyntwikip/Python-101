@@ -6,6 +6,7 @@ You may immediately play around with the notebook through Google Colaboratory. H
 - <a href="https://colab.research.google.com/github/Cyntwikip/Python-101/blob/main/python_logic_exercises.ipynb">Python Logic Exercises</a>
 - <a href="https://colab.research.google.com/github/Cyntwikip/Python-101/blob/main/python_quiz.ipynb">Python Quiz</a>
 - <a href="https://colab.research.google.com/github/Cyntwikip/Python-101/blob/main/python_basics.ipynb">Python Basics</a>
+- <a href="https://colab.research.google.com/github/Cyntwikip/Python-101/blob/main/python_basics_20240817.ipynb">Python Basics 2025</a>
 - <a href="https://colab.research.google.com/github/Cyntwikip/Python-101/blob/main/python_basics_quiz.ipynb">Python Basics Quiz</a>
 - <a href="https://colab.research.google.com/github/Cyntwikip/Python-101/blob/main/python_workshop.ipynb">Python Workshop</a>
 - <a href="https://colab.research.google.com/github/Cyntwikip/Python-101/blob/main/python_ds.ipynb">Python in Data Science</a>
